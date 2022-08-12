@@ -896,8 +896,5 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ],
-  "wallpaper": "https://cdn.seovx.com/?mom=302",
-
-  "spider": "http://s1.xiaoz.fit:10006/tv/721.jar"
+  ]
 }
