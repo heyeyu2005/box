@@ -1295,6 +1295,7 @@
       "url": "Sequence"
     },
 # type1 聚合.并发.轮询
+{"name":"江湖","type":1,"url":"http://150.230.216.174/tvjx.php?url="},
 {"name":"云you解析","type":1,"url":"https://ax.jx.cn/apii.php?url="},
 {"name":"云you解析2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
