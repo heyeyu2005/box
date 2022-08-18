@@ -1295,9 +1295,16 @@
       "url": "Sequence"
     },
 # type1 聚合.并发.轮询
-{
-		"name": "GGTV快速",
-		"type": 1,
+{"name":"aiku","type": 0,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
+{"name":"爱豆","type": 0,"url":"http://id190.tpddns.cn:81/jsonch/?url="},
+{"name":"江湖","type": 0,"url":"http://150.230.216.174/tvjx.php?url="},
+{"name":"keyu","type": 0,"url":"http://newjiexi.gotka.top/keyu3.php?url="},
+{"name":"腾讯云","type": 0,"url":"http://106.52.218.221:88/?url="},
+{"name":"左岸","type": 0,"url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url="},
+{"name":"随便","type": 0,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
+{"name":"LTRX","type": 0,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="}],
+	{"name": "GGTV快速",
+		"type": 0,
 		"url": "https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="
 	}, {
 		"name": "m3u8tv高清",
