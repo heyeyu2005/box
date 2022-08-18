@@ -5,7 +5,6 @@
       "name": "⚡️诺讯资源",
       "type": 1,
       "api": "https://caiji.nxflv.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://www.nxflv.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1303,8 +1302,8 @@
 {"name":"左岸","type": 0,"url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=flmoqszABEIJNQT017&url="},
 {"name":"随便","type": 0,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
 {"name":"LTRX","type": 0,"url":"https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url="},
-	{"name": "GGTV快速",
-		"type": 0,
+           {"name": "GGTV快速",
+		"type": 1,
 		"url": "https://play.fuqizhishi.com/ganggang/API.php?appkey=QQ172598364&url="
 	}, {
 		"name": "m3u8tv高清",
