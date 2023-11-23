@@ -1,6 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]关注公众号：天微科技
 //
 广东常用,#genre#
+珠江台,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 广东珠江1,http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 广东珠江2,https://angtv.cc/test/itouch.php?id=gdzj
 广东民生,https://angtv.cc/test/itouch.php?id=gdms
